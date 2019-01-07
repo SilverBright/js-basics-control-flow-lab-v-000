@@ -2,7 +2,7 @@
 
 function scuberGreetingForFeet(199) {
   let free;
-  if ( scuberGreetingForFeet <= 400)
+  if ( scuberGreetingForFeet(199) <= 400)
     free = 'This one is on me!'
   
 }
