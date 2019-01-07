@@ -1,5 +1,5 @@
 // Write your code in this file!
 
-function scuberGreetingForFeet(199) {
-  if (scuberGreetingForFeet >= 400 )
+function scuberGreetingForFeet() {
+  if (199 >= 400 )
 }
