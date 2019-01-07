@@ -2,6 +2,6 @@
 
 function scuberGreetingForFeet(199) {
   let ride;
-  if ( ride <= 400)
+  if ( scuberGreetingForFeet <= 400)
   
 }
