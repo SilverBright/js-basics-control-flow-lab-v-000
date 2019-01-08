@@ -4,7 +4,8 @@ function scuberGreetingForFeet(distance) {
   let result
   if (distance <= 400) {
     freeRide = 'This one is on me!';
-  else   (feet > 2000) {
+  } elsif (feet > 2000) {
+  
     freeRide = 'This one is on me!';
   }
   return freeRide
