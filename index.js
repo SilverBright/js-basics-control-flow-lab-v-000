@@ -11,4 +11,5 @@ function scuberGreetingForFeet(distance) {
     } else {
       response = "I will gladly take your thirty bucks."
     }
+    return response
   };
