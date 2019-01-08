@@ -5,4 +5,5 @@ function scuberGreetingForFeet(199) {
   if (199 <= 400) {
   freeRide = 'This one is on me!'
   }
+  return freeRide
 }
