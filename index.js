@@ -16,6 +16,6 @@ function ternaryCheckCity(destination) {
   return destination === `NYC` ? `Ok, sounds good.` : `No go.`; 
 }
 
-function switchOnCharmFromTip() {
+function switchOnCharmFromTip(generous) {
   
 }
