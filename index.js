@@ -9,6 +9,5 @@ function scuberGreetingForFeet(feet) {
   } else (feet > 2500) { 
     result = 
   }
-  }
   return result
 }
