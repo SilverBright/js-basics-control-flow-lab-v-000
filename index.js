@@ -3,7 +3,8 @@
 function scuberGreetingForFeet(feet) {
   let freeRide
   if (feet <= 400) {
-  freeRide = 'This one is on me!';
+    freeRide = 'This one is on me!';
+  else   
   }
   return freeRide
 }
