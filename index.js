@@ -3,6 +3,6 @@
 function scuberGreetingForFeet(199) {
   let freeRide
   if (199 <= 400) {
-  freeRide = scuberGreetingForFeet(199)
+  freeRide = 'This one is on me!'
   }
 }
