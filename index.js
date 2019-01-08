@@ -14,5 +14,7 @@ function scuberGreetingForFeet(distance) {
 
 function ternaryCheckCity(destination) {
   
-  if (destination )
+  if (destination === NYC) {
+    return 
+  }
 }
