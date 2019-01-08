@@ -17,6 +17,6 @@ function ternaryCheckCity(destination) {
   if (destination === 'NYC') {
     return 'Ok, sounds good.'
   } else {
-    return ''
+    return 'No '
   }
 }
